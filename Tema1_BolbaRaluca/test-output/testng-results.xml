@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="25" passed="25">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="247" started-at="2015-03-08T19:09:01Z" finished-at="2015-03-08T19:09:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="247" started-at="2015-03-08T19:09:01Z" finished-at="2015-03-08T19:09:01Z">
+      <class name="tp.tema1.polinom.TestPolinom">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:tp.tema1.polinom.TestPolinom@956de9]" name="initialize" is-config="true" duration-ms="39" started-at="2015-03-08T21:09:01Z" finished-at="2015-03-08T21:09:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="testAdunare()[pri:0, instance:tp.tema1.polinom.TestPolinom@956de9]" name="testAdunare" duration-ms="22" started-at="2015-03-08T21:09:01Z" finished-at="2015-03-08T21:09:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdunare -->
+        <test-method status="PASS" signature="testImpartire()[pri:0, instance:tp.tema1.polinom.TestPolinom@956de9]" name="testImpartire" duration-ms="5" started-at="2015-03-08T21:09:01Z" finished-at="2015-03-08T21:09:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testImpartire -->
+        <test-method status="PASS" signature="testScadere()[pri:0, instance:tp.tema1.polinom.TestPolinom@956de9]" name="testScadere" duration-ms="2" started-at="2015-03-08T21:09:01Z" finished-at="2015-03-08T21:09:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScadere -->
+        <test-method status="PASS" signature="testValoareDerivataP(double, double)[pri:0, instance:tp.tema1.polinom.TestPolinom@956de9]" name="testValoareDerivataP" duration-ms="3" started-at="2015-03-08T21:09:01Z" data-provider="valoareDerivataP" finished-at="2015-03-08T21:09:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[-4.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValoareDerivataP -->
+        <test-method status="PASS" signature="testValoareDerivataP(double, double)[pri:0, instance:tp.tema1.polinom.TestPolinom@956de9]" name="testValoareDerivataP" duration-ms="7" started-at="2015-03-08T21:09:01Z" data-provider="valoareDerivataP" finished-at="2015-03-08T21:09:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[15.04]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[15051.737856]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValoareDerivataP -->
+        <test-method status="PASS" signature="testValoareDerivataP(double, double)[pri:0, instance:tp.tema1.polinom.TestPolinom@956de9]" name="testValoareDerivataP" duration-ms="2" started-at="2015-03-08T21:09:01Z" data-provider="valoareDerivataP" finished-at="2015-03-08T21:09:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[32]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[137404]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValoareDerivataP -->
+        <test-method status="PASS" signature="testValoareDerivataP(double, double)[pri:0, instance:tp.tema1.polinom.TestPolinom@956de9]" name="testValoareDerivataP" duration-ms="1" started-at="2015-03-08T21:09:01Z" data-provider="valoareDerivataP" finished-at="2015-03-08T21:09:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValoareDerivataP -->
+        <test-method status="PASS" signature="testValoareDerivataP(double, double)[pri:0, instance:tp.tema1.polinom.TestPolinom@956de9]" name="testValoareDerivataP" duration-ms="7" started-at="2015-03-08T21:09:01Z" data-provider="valoareDerivataP" finished-at="2015-03-08T21:09:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0.028]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[-3.827208192]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValoareDerivataP -->
+        <test-method status="PASS" signature="testValoareDerivataP(double, double)[pri:0, instance:tp.tema1.polinom.TestPolinom@956de9]" name="testValoareDerivataP" duration-ms="2" started-at="2015-03-08T21:09:01Z" data-provider="valoareDerivataP" finished-at="2015-03-08T21:09:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[-300]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[-107461804]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValoareDerivataP -->
+        <test-method status="PASS" signature="testValoareDerivataQ(double, double)[pri:0, instance:tp.tema1.polinom.TestPolinom@956de9]" name="testValoareDerivataQ" duration-ms="2" started-at="2015-03-08T21:09:01Z" data-provider="valoareDerivataQ" finished-at="2015-03-08T21:09:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValoareDerivataQ -->
+        <test-method status="PASS" signature="testValoareDerivataQ(double, double)[pri:0, instance:tp.tema1.polinom.TestPolinom@956de9]" name="testValoareDerivataQ" duration-ms="3" started-at="2015-03-08T21:09:01Z" data-provider="valoareDerivataQ" finished-at="2015-03-08T21:09:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[15.04]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValoareDerivataQ -->
+        <test-method status="PASS" signature="testValoareDerivataQ(double, double)[pri:0, instance:tp.tema1.polinom.TestPolinom@956de9]" name="testValoareDerivataQ" duration-ms="1" started-at="2015-03-08T21:09:01Z" data-provider="valoareDerivataQ" finished-at="2015-03-08T21:09:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[32]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValoareDerivataQ -->
+        <test-method status="PASS" signature="testValoareDerivataQ(double, double)[pri:0, instance:tp.tema1.polinom.TestPolinom@956de9]" name="testValoareDerivataQ" duration-ms="15" started-at="2015-03-08T21:09:01Z" data-provider="valoareDerivataQ" finished-at="2015-03-08T21:09:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValoareDerivataQ -->
+        <test-method status="PASS" signature="testValoareDerivataQ(double, double)[pri:0, instance:tp.tema1.polinom.TestPolinom@956de9]" name="testValoareDerivataQ" duration-ms="5" started-at="2015-03-08T21:09:01Z" data-provider="valoareDerivataQ" finished-at="2015-03-08T21:09:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0.028]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValoareDerivataQ -->
+        <test-method status="PASS" signature="testValoareDerivataQ(double, double)[pri:0, instance:tp.tema1.polinom.TestPolinom@956de9]" name="testValoareDerivataQ" duration-ms="2" started-at="2015-03-08T21:09:01Z" data-provider="valoareDerivataQ" finished-at="2015-03-08T21:09:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[-300]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValoareDerivataQ -->
+        <test-method status="PASS" signature="testValoareDerivataT(double, double)[pri:0, instance:tp.tema1.polinom.TestPolinom@956de9]" name="testValoareDerivataT" duration-ms="2" started-at="2015-03-08T21:09:01Z" data-provider="valoareDerivataT" finished-at="2015-03-08T21:09:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[0.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValoareDerivataT -->
+        <test-method status="PASS" signature="testValoareDerivataT(double, double)[pri:0, instance:tp.tema1.polinom.TestPolinom@956de9]" name="testValoareDerivataT" duration-ms="2" started-at="2015-03-08T21:09:01Z" data-provider="valoareDerivataT" finished-at="2015-03-08T21:09:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[15.04]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[0.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValoareDerivataT -->
+        <test-method status="PASS" signature="testValoareDerivataT(double, double)[pri:0, instance:tp.tema1.polinom.TestPolinom@956de9]" name="testValoareDerivataT" duration-ms="1" started-at="2015-03-08T21:09:01Z" data-provider="valoareDerivataT" finished-at="2015-03-08T21:09:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[32]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[0.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValoareDerivataT -->
+        <test-method status="PASS" signature="testValoareDerivataT(double, double)[pri:0, instance:tp.tema1.polinom.TestPolinom@956de9]" name="testValoareDerivataT" duration-ms="2" started-at="2015-03-08T21:09:01Z" data-provider="valoareDerivataT" finished-at="2015-03-08T21:09:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[0.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValoareDerivataT -->
+        <test-method status="PASS" signature="testValoareDerivataT(double, double)[pri:0, instance:tp.tema1.polinom.TestPolinom@956de9]" name="testValoareDerivataT" duration-ms="1" started-at="2015-03-08T21:09:01Z" data-provider="valoareDerivataT" finished-at="2015-03-08T21:09:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0.028]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[0.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValoareDerivataT -->
+        <test-method status="PASS" signature="testValoareDerivataT(double, double)[pri:0, instance:tp.tema1.polinom.TestPolinom@956de9]" name="testValoareDerivataT" duration-ms="1" started-at="2015-03-08T21:09:01Z" data-provider="valoareDerivataT" finished-at="2015-03-08T21:09:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[-300]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[0.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValoareDerivataT -->
+        <test-method status="PASS" signature="testValoarePolinom(double, double)[pri:0, instance:tp.tema1.polinom.TestPolinom@956de9]" name="testValoarePolinom" duration-ms="3" started-at="2015-03-08T21:09:01Z" data-provider="valoarePolinom" finished-at="2015-03-08T21:09:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[-5.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValoarePolinom -->
+        <test-method status="PASS" signature="testValoarePolinom(double, double)[pri:0, instance:tp.tema1.polinom.TestPolinom@956de9]" name="testValoarePolinom" duration-ms="2" started-at="2015-03-08T21:09:01Z" data-provider="valoarePolinom" finished-at="2015-03-08T21:09:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[-3.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValoarePolinom -->
+        <test-method status="PASS" signature="testValoarePolinom(double, double)[pri:0, instance:tp.tema1.polinom.TestPolinom@956de9]" name="testValoarePolinom" duration-ms="2" started-at="2015-03-08T21:09:01Z" data-provider="valoarePolinom" finished-at="2015-03-08T21:09:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[32]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1117051]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValoarePolinom -->
+        <test-method status="PASS" signature="testValoarePolinom(double, double)[pri:0, instance:tp.tema1.polinom.TestPolinom@956de9]" name="testValoarePolinom" duration-ms="1" started-at="2015-03-08T21:09:01Z" data-provider="valoarePolinom" finished-at="2015-03-08T21:09:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[15.04]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[58584.7527706]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValoarePolinom -->
+      </class> <!-- tp.tema1.polinom.TestPolinom -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
